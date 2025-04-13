@@ -1,0 +1,6 @@
+{
+  "name": "nibble"
+  "scripts": {
+    "start" : "node src/app.js"
+  }
+}
