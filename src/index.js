@@ -1,5 +1,5 @@
 function setProjectTitle(title) {
-	document.title = "Nibble: Have CTRL over " + title;
+	document.title = "Nibble: CTRL " + title;
 }
 
-setProjectTitle("This is a test!");
+setProjectTitle("test app");

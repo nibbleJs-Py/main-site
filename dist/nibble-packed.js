@@ -1,1 +1,1 @@
-document.title="Nibble: Have CTRL over This is a test!";
+document.title="Nibble: CTRL test app";
